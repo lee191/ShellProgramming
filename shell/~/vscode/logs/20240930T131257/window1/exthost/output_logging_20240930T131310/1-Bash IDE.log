@@ -1,0 +1,65 @@
+[Warn  - 오후 1:13:16] 04:13:16.351 WARNING ⛔️ Environment variable configuration is being deprecated, please use workspace configuration. The following environment variables were used: shfmt
+[Info  - 오후 1:13:16] 04:13:16.375 INFO BackgroundAnalysis: resolving glob "**/*@(.sh|.inc|.bash|.command)" inside "file:///root/shell"...
+[Info  - 오후 1:13:16] 04:13:16.388 INFO BackgroundAnalysis: Glob resolved with 16 files after 0.013 seconds
+[Info  - 오후 1:13:16] 04:13:16.413 INFO BackgroundAnalysis: Completed after 0.038 seconds.
+[Warn  - 오후 1:13:16] 04:13:16.882 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'
+[Warn  - 오후 1:14:54] 04:14:54.024 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:14:54] 04:14:54.319 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:14:56] 04:14:56.248 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:20:17] 04:20:17.464 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:20:17] 04:20:17.848 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:20:27] 04:20:27.968 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:20:28] 04:20:28.416 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:22:34] 04:22:34.015 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:22:35] 04:22:35.646 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:22:35] 04:22:35.748 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:22:36] 04:22:36.049 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:22:36] 04:22:36.968 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:22:37] 04:22:37.711 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:22:38] 04:22:38.232 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:22:38] 04:22:38.998 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:22:39] 04:22:39.800 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:22:39] 04:22:39.874 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:22:39] 04:22:39.951 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:22:40] 04:22:40.544 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:22:42] 04:22:42.017 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:22:43] 04:22:43.058 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:22:43] 04:22:43.175 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:22:43] 04:22:43.623 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:22:44] 04:22:44.858 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:22:45] 04:22:45.643 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:22:46] 04:22:46.336 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:23:26] 04:23:26.601 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:23:44] 04:23:44.735 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:23:45] 04:23:45.689 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 1:23:46] 04:23:46.440 WARNING ⛔️ Error while parsing file:///root/shell/check_service.sh: syntax error
+[Warn  - 오후 2:17:18] 05:17:18.261 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:17:20] 05:17:20.101 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:17:20] 05:17:20.238 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:17:20] 05:17:20.558 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:17:20] 05:17:20.637 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:17:21] 05:17:21.118 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:17:22] 05:17:22.373 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:17:23] 05:17:23.329 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:17:24] 05:17:24.894 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:17:25] 05:17:25.546 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:17:25] 05:17:25.677 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:17:30] 05:17:30.224 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:17:30] 05:17:30.871 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:17:31] 05:17:31.053 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:17:31] 05:17:31.165 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:18:25] 05:18:25.774 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:19:52] 05:19:52.022 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:20:00] 05:20:00.398 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:20:01] 05:20:01.800 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:20:03] 05:20:03.445 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:20:03] 05:20:03.830 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:20:11] 05:20:11.798 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:21:31] 05:21:31.740 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:22:29] 05:22:29.377 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:22:31] 05:22:31.521 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:22:38] 05:22:38.836 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:25:46] 05:25:46.475 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:26:09] 05:26:09.925 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:26:23] 05:26:23.486 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
+[Warn  - 오후 2:26:32] 05:26:32.932 WARNING ⛔️ Error while parsing file:///root/shell/auto_ftp2.sh: syntax error
